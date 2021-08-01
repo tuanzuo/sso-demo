@@ -1,0 +1,15 @@
+server:
+  port: 8082
+spring:
+  application:
+    #配置应用名
+    name: tbserver
+  freemarker:
+    cache: false
+    charset: utf-8
+    suffix: .ftl
+    check-template-location: true
+    #template-loader-path: "classpath:page"
+    #template-loader-path: "WEB-INF/page"
+    settings:
+      number_format: 0.##
