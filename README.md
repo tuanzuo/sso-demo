@@ -1,21 +1,8 @@
-# Getting Started
+# 单点登录
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### 参考文档
+https://www.cnblogs.com/EzrealLiu/p/5559255.html
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.5.3/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.5.3/maven-plugin/reference/html/#build-image)
-* [Apache Freemarker](https://docs.spring.io/spring-boot/docs/2.5.3/reference/htmlsingle/#boot-features-spring-mvc-template-engines)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.3/reference/htmlsingle/#boot-features-developing-web-applications)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.5.3/reference/htmlsingle/#using-boot-devtools)
-* [Spring Data Redis (Access+Driver)](https://docs.spring.io/spring-boot/docs/2.5.3/reference/htmlsingle/#boot-features-redis)
+https://www.cnblogs.com/Java3y/p/10877465.html
 
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-* [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
-
+https://www.cnblogs.com/niceyoo/p/11305143.html
